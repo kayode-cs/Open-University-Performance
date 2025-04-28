@@ -53,7 +53,7 @@ It links socio-economic background to withdrawal rates, helping institutions pri
 1. Download the dataset: 
 2. Open Tableau and load (https://public.tableau.com/app/profile/kayode.adelakun/viz/StudentPerformanceDropoutRiskInsight/Dashboard1). 
 3. Explore the interactive visualizations.
-4.   
+
 ## **📩 Connect With Me**
-📧 Email: yourname@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourname)  
+📧 **Email:** ikadelakun@gmail.com  
+🔗 **LinkedIn:** (https://www.linkedin.com/in/kayode-adelakun-4b68a2343/)
