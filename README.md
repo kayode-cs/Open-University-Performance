@@ -13,11 +13,11 @@ This project leverages the Open University Learning Analytics Dataset (OULAD) to
 
 
 ## **📊 Key Insights**
-- What is the overall distribution of final academic outcomes?
-- How do behavioral factors (previous attempts) impact academic success?
-- Does gender and disability status influence academic outcomes?
-- What is the relationship between deprivation index and student withdrawal rates?
-- How does academic performance vary by region?
+- Younger students and those with lower prior education have higher dropout rates.
+- Students from more deprived backgrounds show lower retention and success.
+- Multiple previous attempts are linked to poorer outcomes.
+- High credit loads can boost success but also increase dropout risk if overloaded.
+- Disabilities and regional differences slightly impact performance; gender differences are minor.
 
 ## **📸 Dashboard Preview**
 ![Dashboard 1](https://github.com/user-attachments/assets/b6d81179-6d78-4d05-9a93-cf835a9d68f7)
